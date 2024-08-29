@@ -3,6 +3,8 @@ Rev 2 of the BPI board things ive found to help
 
 
 .dtb works for enabling SDIO wifi on the new BPI board (BT NOT FUNCTIONING) this is provided by C0rnelius from Armbian <3
+
+
 WL / MFG firmware provided from infineon forums see post 
 
 
