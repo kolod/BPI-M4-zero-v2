@@ -1,4 +1,6 @@
 To enable wifi on the m4 zero v2 copy the .dtb provided by armbian - c0rnelius into the /boot/dtb-6.6.36-current-sunxi64/allwinner/ 
 This will change based off your kernel version.
 
+Edit `/boot/armbianEnv.txt`: ftdfile=allwinner/sun50i-h618-bananapi-m4-zero.dtb
+
 BT- not currently working requires possible gpio rewrite or further investigating. 
